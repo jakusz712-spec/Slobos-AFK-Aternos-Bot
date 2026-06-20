@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tutaj88.aternos.me:35014",
+    "ip": "tutaj88.aternos.me",
     "port": 35014,
     "version": "",
     "try-creative": false
